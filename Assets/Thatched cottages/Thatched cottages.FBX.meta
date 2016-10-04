@@ -3,7 +3,13 @@ guid: a99a32caa0e3280418a920c981b91b40
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: Thatched cottages
+    6400000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 3
@@ -30,10 +36,10 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 0.01
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
